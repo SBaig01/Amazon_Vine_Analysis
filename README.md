@@ -7,19 +7,23 @@ This analysis was performed to determine if there is any bias towards favorable 
 
 ### How many Vine reviews and non-Vine reviews were there?
 There were a total of 8409 reviews for Watches.
+  
   ![Total Reviews](https://github.com/SBaig01/Amazon_Vine_Analysis/blob/838ddbe6ae8bc471061b310de495c628f26eed79/Images/Total%20reviews.png)
 
 ### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 There were a total of 4347 5 star reviews.
+  
   ![5 Star Reviews](https://github.com/SBaig01/Amazon_Vine_Analysis/blob/838ddbe6ae8bc471061b310de495c628f26eed79/Images/Total%205%20stars.png)
 
 ### What percentage of Vine reviews were 5 stars? 
 Almost 0.18% of all vine reviews were 5 stars.
+  
   ![5 Star Vine](https://github.com/SBaig01/Amazon_Vine_Analysis/blob/838ddbe6ae8bc471061b310de495c628f26eed79/Images/vine%205%20stars.png)
 
 
 ### What percentage of non-Vine reviews were 5 stars?
 Almost 52% of all non-vine reviews were 5 stars.
+  
   ![5 Star non-Vine](https://github.com/SBaig01/Amazon_Vine_Analysis/blob/838ddbe6ae8bc471061b310de495c628f26eed79/Images/non-vine%205%20star.png)
 
 ## Summary 
